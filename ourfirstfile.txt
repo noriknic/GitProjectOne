@@ -2,7 +2,6 @@ This is a test file
 
 This is a new line
 
-This is thurd line
-
+This is 3-rd line
 
 This is new 4 line
